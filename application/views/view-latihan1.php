@@ -4,7 +4,7 @@
     <title>Latihan 1</title>
 </head>
 
-<body>
+<body bgcolor=green>
 
     Halo Kawan.. Yuk kita belajar web programming..!!!<br>
     Nilai 1 = <?= $nilai1; ?>

@@ -2,7 +2,7 @@
 <head>
     <title>Form Input Matakuliah</title>
 </head>
-<body>
+<body bgcolor=red>
     <center>
         <form action="<?= ('matakuliah/cetak'); ?>"
 method="post">

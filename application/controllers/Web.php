@@ -5,7 +5,8 @@ class Web extends CI_Controller{
         parent::__construct();
         $this->load->helper('url');
      }
-    public function index(){
+    
+     public function index(){
         $data['judul'] ="Halaman Depan";
         $this->load->view('v_header',$data);
         $this->load->view('v_index',$data);

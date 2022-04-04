@@ -8,7 +8,7 @@
     <br>
     <h4>Alamat</h4>
     <ul type="none">
-        <li> Desa. Nagrak Selatan Rt.03/05 Kec. Magrak Sukabumi</li>
+        <li> Desa. Nagrak Selatan Rt.03/05 Kec. Nagrak Sukabumi</li>
     </ul>
  
     <h4>Tempat Lahir</h4>

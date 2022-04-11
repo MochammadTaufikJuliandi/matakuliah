@@ -2,9 +2,9 @@
 <head>
  <title>Tampil Data Matakuliah</title>
 </head>
-<body>
+<body bgcolor=green>
     <center>
-        <table>
+        <table border=1 bgcolor=pink>
             <tr>
                 <th colspan="3">
                     Tampil Data Mata Kuliah
